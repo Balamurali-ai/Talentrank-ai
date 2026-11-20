@@ -1,0 +1,301 @@
+ID,relevance,profile,note
+200001,0,trap: data entry clerk,has 'data' and Excel but no analysis
+200002,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200003,0,irrelevant: graphic designer,unrelated profession
+200004,0,trap: data center technician,"IT but hardware, no analytics"
+200005,0,irrelevant: hr generalist,unrelated profession
+200006,0,irrelevant: sous chef,unrelated profession
+200007,0,irrelevant: flight attendant,unrelated profession
+200008,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200009,0,irrelevant: registered nurse,unrelated profession
+200010,0,irrelevant: flight attendant,unrelated profession
+200011,1,partial: junior analyst,right skills but below experience range
+200012,1,partial: ML data scientist,"Python + stats but ML focus, little SQL/dashboards"
+200013,1,partial: marketing analyst,"analytics-adjacent, basic SQL, no Python"
+200014,0,irrelevant: graphic designer,unrelated profession
+200015,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200016,0,irrelevant: sales representative,unrelated profession
+200017,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200018,0,irrelevant: auto mechanic,unrelated profession
+200019,1,partial: backend engineer,Python + SQL but no analytics work
+200020,0,irrelevant: flight attendant,unrelated profession
+200021,1,partial: junior analyst,right skills but below experience range
+200022,0,irrelevant: flight attendant,unrelated profession
+200023,0,irrelevant: personal trainer,unrelated profession
+200024,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200025,1,partial: financial analyst,"Excel-heavy, only basic SQL"
+200026,0,irrelevant: sous chef,unrelated profession
+200027,0,irrelevant: personal trainer,unrelated profession
+200028,0,trap: data entry clerk,has 'data' and Excel but no analysis
+200029,0,irrelevant: construction supervisor,unrelated profession
+200030,0,irrelevant: flight attendant,unrelated profession
+200031,0,irrelevant: flight attendant,unrelated profession
+200032,0,irrelevant: registered nurse,unrelated profession
+200033,0,trap: data center technician,"IT but hardware, no analytics"
+200034,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200035,0,irrelevant: hr generalist,unrelated profession
+200036,0,trap: data center technician,"IT but hardware, no analytics"
+200037,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200038,0,irrelevant: hr generalist,unrelated profession
+200039,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200040,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200041,1,partial: financial analyst,"Excel-heavy, only basic SQL"
+200042,0,irrelevant: registered nurse,unrelated profession
+200043,0,irrelevant: registered nurse,unrelated profession
+200044,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200045,0,trap: medical records clerk,records/Excel but no analysis
+200046,0,irrelevant: tax preparer,unrelated profession
+200047,0,irrelevant: personal trainer,unrelated profession
+200048,1,partial: BI developer,SQL + Power BI but no Python/stats
+200049,0,irrelevant: registered nurse,unrelated profession
+200050,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200051,0,irrelevant: construction supervisor,unrelated profession
+200052,0,irrelevant: auto mechanic,unrelated profession
+200053,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200054,0,irrelevant: graphic designer,unrelated profession
+200055,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200056,1,partial: junior analyst,right skills but below experience range
+200057,0,irrelevant: high school teacher,unrelated profession
+200058,0,irrelevant: auto mechanic,unrelated profession
+200059,1,partial: marketing analyst,"analytics-adjacent, basic SQL, no Python"
+200060,1,partial: financial analyst,"Excel-heavy, only basic SQL"
+200061,0,irrelevant: sous chef,unrelated profession
+200062,1,partial: business analyst,SQL + Excel but no Python or viz tool
+200063,0,irrelevant: sous chef,unrelated profession
+200064,0,irrelevant: sous chef,unrelated profession
+200065,1,partial: financial analyst,"Excel-heavy, only basic SQL"
+200066,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200067,0,irrelevant: paralegal,unrelated profession
+200068,1,partial: ML data scientist,"Python + stats but ML focus, little SQL/dashboards"
+200069,0,trap: data entry clerk,has 'data' and Excel but no analysis
+200070,0,irrelevant: graphic designer,unrelated profession
+200071,0,irrelevant: paralegal,unrelated profession
+200072,0,irrelevant: personal trainer,unrelated profession
+200073,0,irrelevant: auto mechanic,unrelated profession
+200074,0,irrelevant: high school teacher,unrelated profession
+200075,0,irrelevant: flight attendant,unrelated profession
+200076,1,partial: marketing analyst,"analytics-adjacent, basic SQL, no Python"
+200077,1,partial: ML data scientist,"Python + stats but ML focus, little SQL/dashboards"
+200078,0,irrelevant: registered nurse,unrelated profession
+200079,0,irrelevant: high school teacher,unrelated profession
+200080,0,irrelevant: hr generalist,unrelated profession
+200081,1,partial: backend engineer,Python + SQL but no analytics work
+200082,0,irrelevant: hr generalist,unrelated profession
+200083,0,irrelevant: tax preparer,unrelated profession
+200084,0,irrelevant: flight attendant,unrelated profession
+200085,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200086,0,irrelevant: high school teacher,unrelated profession
+200087,0,trap: medical records clerk,records/Excel but no analysis
+200088,0,irrelevant: sales representative,unrelated profession
+200089,0,irrelevant: sous chef,unrelated profession
+200090,1,partial: ML data scientist,"Python + stats but ML focus, little SQL/dashboards"
+200091,0,irrelevant: sous chef,unrelated profession
+200092,0,irrelevant: tax preparer,unrelated profession
+200093,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200094,1,partial: marketing analyst,"analytics-adjacent, basic SQL, no Python"
+200095,0,irrelevant: sales representative,unrelated profession
+200096,1,partial: BI developer,SQL + Power BI but no Python/stats
+200097,1,partial: backend engineer,Python + SQL but no analytics work
+200098,1,partial: backend engineer,Python + SQL but no analytics work
+200099,0,trap: data entry clerk,has 'data' and Excel but no analysis
+200100,1,partial: marketing analyst,"analytics-adjacent, basic SQL, no Python"
+200101,0,irrelevant: high school teacher,unrelated profession
+200102,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200103,1,partial: business analyst,SQL + Excel but no Python or viz tool
+200104,0,irrelevant: paralegal,unrelated profession
+200105,0,irrelevant: sous chef,unrelated profession
+200106,1,partial: BI developer,SQL + Power BI but no Python/stats
+200107,0,irrelevant: high school teacher,unrelated profession
+200108,0,irrelevant: paralegal,unrelated profession
+200109,0,irrelevant: sales representative,unrelated profession
+200110,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200111,1,partial: junior analyst,right skills but below experience range
+200112,0,irrelevant: auto mechanic,unrelated profession
+200113,0,irrelevant: registered nurse,unrelated profession
+200114,1,partial: marketing analyst,"analytics-adjacent, basic SQL, no Python"
+200115,0,irrelevant: graphic designer,unrelated profession
+200116,0,irrelevant: sous chef,unrelated profession
+200117,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200118,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200119,0,irrelevant: sous chef,unrelated profession
+200120,0,irrelevant: construction supervisor,unrelated profession
+200121,1,partial: financial analyst,"Excel-heavy, only basic SQL"
+200122,1,partial: ML data scientist,"Python + stats but ML focus, little SQL/dashboards"
+200123,0,irrelevant: graphic designer,unrelated profession
+200124,0,irrelevant: paralegal,unrelated profession
+200125,1,partial: ML data scientist,"Python + stats but ML focus, little SQL/dashboards"
+200126,0,irrelevant: hr generalist,unrelated profession
+200127,0,irrelevant: personal trainer,unrelated profession
+200128,0,irrelevant: construction supervisor,unrelated profession
+200129,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200130,0,irrelevant: hr generalist,unrelated profession
+200131,0,irrelevant: tax preparer,unrelated profession
+200132,1,partial: backend engineer,Python + SQL but no analytics work
+200133,0,irrelevant: flight attendant,unrelated profession
+200134,1,partial: BI developer,SQL + Power BI but no Python/stats
+200135,0,irrelevant: auto mechanic,unrelated profession
+200136,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200137,0,irrelevant: tax preparer,unrelated profession
+200138,1,partial: BI developer,SQL + Power BI but no Python/stats
+200139,1,partial: junior analyst,right skills but below experience range
+200140,1,partial: financial analyst,"Excel-heavy, only basic SQL"
+200141,0,irrelevant: sous chef,unrelated profession
+200142,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200143,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200144,1,partial: backend engineer,Python + SQL but no analytics work
+200145,0,irrelevant: high school teacher,unrelated profession
+200146,0,irrelevant: hr generalist,unrelated profession
+200147,0,irrelevant: paralegal,unrelated profession
+200148,0,irrelevant: tax preparer,unrelated profession
+200149,0,irrelevant: construction supervisor,unrelated profession
+200150,1,partial: business analyst,SQL + Excel but no Python or viz tool
+200151,0,irrelevant: high school teacher,unrelated profession
+200152,0,irrelevant: construction supervisor,unrelated profession
+200153,1,partial: business analyst,SQL + Excel but no Python or viz tool
+200154,0,irrelevant: sales representative,unrelated profession
+200155,0,irrelevant: registered nurse,unrelated profession
+200156,0,irrelevant: personal trainer,unrelated profession
+200157,0,irrelevant: sous chef,unrelated profession
+200158,1,partial: ML data scientist,"Python + stats but ML focus, little SQL/dashboards"
+200159,0,irrelevant: auto mechanic,unrelated profession
+200160,0,irrelevant: high school teacher,unrelated profession
+200161,0,irrelevant: sous chef,unrelated profession
+200162,0,trap: data entry clerk,has 'data' and Excel but no analysis
+200163,1,partial: BI developer,SQL + Power BI but no Python/stats
+200164,1,partial: business analyst,SQL + Excel but no Python or viz tool
+200165,0,irrelevant: paralegal,unrelated profession
+200166,1,partial: ML data scientist,"Python + stats but ML focus, little SQL/dashboards"
+200167,0,irrelevant: graphic designer,unrelated profession
+200168,0,irrelevant: construction supervisor,unrelated profession
+200169,1,partial: financial analyst,"Excel-heavy, only basic SQL"
+200170,0,irrelevant: tax preparer,unrelated profession
+200171,0,irrelevant: registered nurse,unrelated profession
+200172,0,irrelevant: auto mechanic,unrelated profession
+200173,1,partial: ML data scientist,"Python + stats but ML focus, little SQL/dashboards"
+200174,1,partial: junior analyst,right skills but below experience range
+200175,1,partial: junior analyst,right skills but below experience range
+200176,0,irrelevant: construction supervisor,unrelated profession
+200177,1,partial: financial analyst,"Excel-heavy, only basic SQL"
+200178,0,irrelevant: paralegal,unrelated profession
+200179,0,irrelevant: registered nurse,unrelated profession
+200180,1,partial: junior analyst,right skills but below experience range
+200181,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200182,0,irrelevant: auto mechanic,unrelated profession
+200183,0,irrelevant: paralegal,unrelated profession
+200184,0,irrelevant: sales representative,unrelated profession
+200185,0,irrelevant: personal trainer,unrelated profession
+200186,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200187,0,irrelevant: registered nurse,unrelated profession
+200188,0,irrelevant: flight attendant,unrelated profession
+200189,0,irrelevant: graphic designer,unrelated profession
+200190,0,irrelevant: graphic designer,unrelated profession
+200191,0,irrelevant: sales representative,unrelated profession
+200192,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200193,1,partial: junior analyst,right skills but below experience range
+200194,0,irrelevant: tax preparer,unrelated profession
+200195,0,irrelevant: hr generalist,unrelated profession
+200196,1,partial: marketing analyst,"analytics-adjacent, basic SQL, no Python"
+200197,1,partial: business analyst,SQL + Excel but no Python or viz tool
+200198,0,irrelevant: graphic designer,unrelated profession
+200199,0,irrelevant: personal trainer,unrelated profession
+200200,1,partial: junior analyst,right skills but below experience range
+200201,0,trap: data entry clerk,has 'data' and Excel but no analysis
+200202,1,partial: financial analyst,"Excel-heavy, only basic SQL"
+200203,1,partial: business analyst,SQL + Excel but no Python or viz tool
+200204,1,partial: marketing analyst,"analytics-adjacent, basic SQL, no Python"
+200205,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200206,0,irrelevant: paralegal,unrelated profession
+200207,1,partial: junior analyst,right skills but below experience range
+200208,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200209,0,irrelevant: flight attendant,unrelated profession
+200210,1,partial: backend engineer,Python + SQL but no analytics work
+200211,1,partial: backend engineer,Python + SQL but no analytics work
+200212,0,irrelevant: hr generalist,unrelated profession
+200213,1,partial: marketing analyst,"analytics-adjacent, basic SQL, no Python"
+200214,1,partial: financial analyst,"Excel-heavy, only basic SQL"
+200215,0,irrelevant: sales representative,unrelated profession
+200216,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200217,0,irrelevant: auto mechanic,unrelated profession
+200218,0,irrelevant: tax preparer,unrelated profession
+200219,0,irrelevant: flight attendant,unrelated profession
+200220,0,irrelevant: paralegal,unrelated profession
+200221,0,trap: data center technician,"IT but hardware, no analytics"
+200222,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200223,0,trap: medical records clerk,records/Excel but no analysis
+200224,0,irrelevant: construction supervisor,unrelated profession
+200225,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200226,1,partial: business analyst,SQL + Excel but no Python or viz tool
+200227,0,irrelevant: personal trainer,unrelated profession
+200228,1,partial: ML data scientist,"Python + stats but ML focus, little SQL/dashboards"
+200229,0,irrelevant: registered nurse,unrelated profession
+200230,0,trap: medical records clerk,records/Excel but no analysis
+200231,0,irrelevant: sales representative,unrelated profession
+200232,1,partial: BI developer,SQL + Power BI but no Python/stats
+200233,1,partial: business analyst,SQL + Excel but no Python or viz tool
+200234,0,irrelevant: construction supervisor,unrelated profession
+200235,1,partial: BI developer,SQL + Power BI but no Python/stats
+200236,0,irrelevant: high school teacher,unrelated profession
+200237,0,irrelevant: graphic designer,unrelated profession
+200238,1,partial: marketing analyst,"analytics-adjacent, basic SQL, no Python"
+200239,0,irrelevant: personal trainer,unrelated profession
+200240,0,trap: medical records clerk,records/Excel but no analysis
+200241,1,partial: business analyst,SQL + Excel but no Python or viz tool
+200242,0,irrelevant: auto mechanic,unrelated profession
+200243,0,irrelevant: tax preparer,unrelated profession
+200244,0,irrelevant: tax preparer,unrelated profession
+200245,0,irrelevant: construction supervisor,unrelated profession
+200246,0,irrelevant: paralegal,unrelated profession
+200247,0,irrelevant: hr generalist,unrelated profession
+200248,1,partial: marketing analyst,"analytics-adjacent, basic SQL, no Python"
+200249,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200250,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200251,0,irrelevant: high school teacher,unrelated profession
+200252,0,irrelevant: auto mechanic,unrelated profession
+200253,1,partial: BI developer,SQL + Power BI but no Python/stats
+200254,0,trap: data center technician,"IT but hardware, no analytics"
+200255,0,irrelevant: sous chef,unrelated profession
+200256,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200257,0,irrelevant: registered nurse,unrelated profession
+200258,1,partial: marketing analyst,"analytics-adjacent, basic SQL, no Python"
+200259,0,irrelevant: hr generalist,unrelated profession
+200260,1,partial: business analyst,SQL + Excel but no Python or viz tool
+200261,1,partial: junior analyst,right skills but below experience range
+200262,0,irrelevant: flight attendant,unrelated profession
+200263,0,irrelevant: high school teacher,unrelated profession
+200264,0,irrelevant: paralegal,unrelated profession
+200265,0,trap: data entry clerk,has 'data' and Excel but no analysis
+200266,0,irrelevant: personal trainer,unrelated profession
+200267,0,irrelevant: sales representative,unrelated profession
+200268,0,irrelevant: personal trainer,unrelated profession
+200269,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200270,0,trap: data center technician,"IT but hardware, no analytics"
+200271,0,irrelevant: auto mechanic,unrelated profession
+200272,0,irrelevant: hr generalist,unrelated profession
+200273,0,irrelevant: graphic designer,unrelated profession
+200274,0,irrelevant: graphic designer,unrelated profession
+200275,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200276,0,irrelevant: high school teacher,unrelated profession
+200277,0,irrelevant: tax preparer,unrelated profession
+200278,0,irrelevant: tax preparer,unrelated profession
+200279,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200280,0,irrelevant: registered nurse,unrelated profession
+200281,0,irrelevant: high school teacher,unrelated profession
+200282,0,irrelevant: sales representative,unrelated profession
+200283,0,irrelevant: personal trainer,unrelated profession
+200284,0,irrelevant: construction supervisor,unrelated profession
+200285,0,trap: medical records clerk,records/Excel but no analysis
+200286,1,partial: business analyst,SQL + Excel but no Python or viz tool
+200287,1,partial: BI developer,SQL + Power BI but no Python/stats
+200288,1,partial: business analyst,SQL + Excel but no Python or viz tool
+200289,0,irrelevant: sales representative,unrelated profession
+200290,0,irrelevant: auto mechanic,unrelated profession
+200291,1,partial: business analyst,SQL + Excel but no Python or viz tool
+200292,0,trap: data center technician,"IT but hardware, no analytics"
+200293,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"
+200294,1,partial: ML data scientist,"Python + stats but ML focus, little SQL/dashboards"
+200295,1,partial: backend engineer,Python + SQL but no analytics work
+200296,1,partial: backend engineer,Python + SQL but no analytics work
+200297,0,irrelevant: construction supervisor,unrelated profession
+200298,1,partial: ML data scientist,"Python + stats but ML focus, little SQL/dashboards"
+200299,0,irrelevant: sales representative,unrelated profession
+200300,2,strong: data analyst,"SQL + Python + viz tool + statistics, in range"

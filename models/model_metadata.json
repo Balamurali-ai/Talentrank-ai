@@ -1,0 +1,18 @@
+{
+    "chosen_algorithm": "XGBoost",
+    "metrics": {
+        "accuracy": 0.731980115990058,
+        "precision": 0.39839094159713945,
+        "recall": 0.7014690451206715,
+        "f1": 0.508171797795515,
+        "roc_auc": 0.8113484751040856
+    },
+    "features": [
+        "semantic_sim",
+        "skill_overlap_score",
+        "experience_match_score",
+        "education_match_score",
+        "tfidf_sim"
+    ],
+    "known_limitations": "BPO category is severely underrepresented (22 resumes total in source data, only 9 distinct ones labeled as positive), leading to poor generalization/recall for this category."
+}

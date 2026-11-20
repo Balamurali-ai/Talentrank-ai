@@ -1,0 +1,105 @@
+
+> frontend@0.1.0 dev
+> next dev
+
+▲ Next.js 16.3.8 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.56.1:3000
+✓ Ready in 3.3s
+✓ Running next.config.mjs took 10ms
+Creating turbopack project {
+  dir: 'd:\\MyPersonalProjects\\talentrank-ai\\frontend',
+  testMode: true
+}
+
+○ Compiling / ...
+⨯ ./app/page.module.css
+Error: Transforming CSS failed
+Selector "button" is not pure. Pure selectors must contain at least one local class or id.
+
+Import traces:
+  Client Component Browser:
+    ./app/page.module.css [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+  Client Component SSR:
+    ./app/page.module.css [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+ GET / 500 in 7.1s (next.js: 6.9s, application-code: 119ms)
+[browser] Uncaught Error: ./app/page.module.css
+Error: Transforming CSS failed
+Selector "button" is not pure. Pure selectors must contain at least one local class or id.
+
+Import traces:
+  Client Component Browser:
+    ./app/page.module.css [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+  Client Component SSR:
+    ./app/page.module.css [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[browser] ./app/page.module.css
+Error: Transforming CSS failed
+Selector "button" is not pure. Pure selectors must contain at least one local class or id.
+
+Import traces:
+  Client Component Browser:
+    ./app/page.module.css [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+  Client Component SSR:
+    ./app/page.module.css [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component] 
+[browser] ./app/page.module.css
+Error: Transforming CSS failed
+Selector "button" is not pure. Pure selectors must contain at least one local class or id.
+
+Import traces:
+  Client Component Browser:
+    ./app/page.module.css [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+  Client Component SSR:
+    ./app/page.module.css [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component] 
+[browser] ./app/page.module.css
+Error: Transforming CSS failed
+Selector "button" is not pure. Pure selectors must contain at least one local class or id.
+
+Import traces:
+  Client Component Browser:
+    ./app/page.module.css [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+  Client Component SSR:
+    ./app/page.module.css [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component] 
+[browser] ./app/page.module.css
+Error: Transforming CSS failed
+Selector "button" is not pure. Pure selectors must contain at least one local class or id.
+
+Import traces:
+  Client Component Browser:
+    ./app/page.module.css [Client Component Browser]
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+  Client Component SSR:
+    ./app/page.module.css [Client Component SSR]
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component] 
+[?25h

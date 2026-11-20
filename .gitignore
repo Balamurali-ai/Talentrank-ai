@@ -9,12 +9,12 @@ __pycache__/
 # Virtual environment
 venv/
 
-# Model artefacts (large binary files)
-models/*.pkl
-models/*.npy
-models/*.faiss
-models/*.enc
-models/*.csv
+# Model artefacts (large binary files) — tracked for Render deployment
+# models/*.pkl
+# models/*.npy
+# models/*.faiss
+# models/*.enc
+# models/*.csv
 
 # Data (large datasets)
 data/
